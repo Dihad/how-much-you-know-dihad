@@ -46,17 +46,6 @@ let questions = [
   },
   {
     numb: 5,
-    question: "how many siblings do I have?",
-    answer: "sister",
-    options: [
-      "none",
-      "sister",
-      "brother",
-      "sister and brother"
-    ]
-  },
-  {
-    numb: 6,
     question: "what i hate the most?",
     answer: "education system",
     options: [
